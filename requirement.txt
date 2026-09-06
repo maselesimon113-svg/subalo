@@ -1,2 +1,2 @@
 streamlit>=1.62.0
-groq>=0.32.13
+ollama>=0.32.13
